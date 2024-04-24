@@ -48,7 +48,7 @@
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^12.11.1",
     "codelyzer": "^5.1.2",
-    "faker": "^4.1.0",
+    "faker": "http://github.com/faker-js/faker/archive/refs/tags/v8.4.1.tar.gz",
     "jasmine-core": "~3.5.0",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "~4.3.0",
